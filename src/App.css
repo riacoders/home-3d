@@ -1,0 +1,8 @@
+#canvas-container {
+	width: 100vw;
+	height: 100vh;
+	background: #328087;
+}
+canvas {
+	display: block;
+}
